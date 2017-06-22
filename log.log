@@ -1,0 +1,15 @@
+
+2017-06-22 16:12:54.611000 =>   File "teste.py", line 9, in <module>
+    num = 0/0
+
+	ZeroDivisionError: division by zero
+
+2017-06-22 16:15:46.690975 =>   File "teste.py", line 9, in <module>
+    num = 0/0
+
+	ZeroDivisionError: division by zero
+
+2017-06-22 16:16:07.806327 =>   File "teste.py", line 8, in <module>
+    num = 0/0
+
+	ZeroDivisionError: division by zero
