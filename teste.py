@@ -1,5 +1,7 @@
 from log import Log
 
+config['LOG_URI'] = 'path/to/log'
+
 # criando o Objeto LOG
 log = Log()
 
